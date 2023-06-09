@@ -1,4 +1,4 @@
-# ExampleOne
+# Ejercicio 1
 Repositorio para ejercicio del primer taller de entrevistas de la ch 28
 
 Indicaciones: 
