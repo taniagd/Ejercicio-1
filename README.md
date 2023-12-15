@@ -1,5 +1,5 @@
 # Ejercicio 1
-Repositorio para ejercicio del primer taller de entrevistas de la ch 28
+Repositorio para ejercicio del primer taller de entrevistas de la ch 35
 
 Indicaciones: 
 Clona este repositorio y realiza las siguientes instrucciones en los archivos index y styles, según corresponda:
