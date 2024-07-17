@@ -10,4 +10,4 @@ Clona este repositorio y realiza las siguientes instrucciones en los archivos in
 4. En la hoja de estilos agrega un background en color cornflowerblue para todo el documento.
 5. Utiliza la etiqueta semántica "main" y dentro coloca el título "Gatitos" y añade la siguiente imagen: https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg
 6. Coloca las otras dos imágenes que están en la carpeta img.
-7. Modifica las dimensiones de una de las imágenes, la que tú elijas, a 250px de alto y 220 de ancho usando css en línea.
+7. Modifica las dimensiones de una de las imágenes, la que tú elijas, a 250px de alto y 220px de ancho usando css en línea.
